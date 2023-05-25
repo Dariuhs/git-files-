@@ -1,0 +1,51 @@
+[33mcommit 7f56b98e861f50560463e4ef55b4fe2e73b8ab8b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dahoni Harouna Coulibaly <dahoniharounac@gmail.com>
+Date:   Thu May 25 19:29:39 2023 +0200
+
+    version03
+
+[1mdiff --git a/lerem_html.html b/lerem_html01.html[m
+[1msimilarity index 63%[m
+[1mrename from lerem_html.html[m
+[1mrename to lerem_html01.html[m
+[1mindex 6dc8b09..0011b82 100644[m
+[1m--- a/lerem_html.html[m
+[1m+++ b/lerem_html01.html[m
+[36m@@ -9,6 +9,6 @@[m
+     [m
+     <body>[m
+         <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste explicabo consequuntur et quos aliquam atque deserunt modi soluta aperiam harum ullam laboriosam exercitationem, alias ratione, earum aspernatur porro quam officia?</h1>[m
+[31m-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque!</p>[m
+[32m+[m[32m        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita cupiditate quia blanditiis, aspernatur delectus recusandae, impedit dignissimos esse eveniet eligendi deserunt ab tenetur asperiores sequi sint! Error a ipsa dolorem?</p>[m
+     </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/lerem_html02.html b/lerem_html02.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4ea5414[m
+[1m--- /dev/null[m
+[1m+++ b/lerem_html02.html[m
+[36m@@ -0,0 +1,22 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <meta charset="UTF-8">[m
+[32m+[m[32m        <!--<meta name="viewport" content="midthdevie-">-->[m
+[32m+[m[32m        <title>Files</title>[m
+[32m+[m[32m    </head>[m
+[32m+[m[41m    [m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste explicabo consequuntur et quos aliquam atque deserunt modi soluta aperiam harum ullam laboriosam exercitationem, alias ratione, earum aspernatur porro quam officia?</h1>[m
+[32m+[m[32m        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laboriosam id quo inventore reprehenderit ducimus assumenda voluptatum molestias ipsum natus accusantium eligendi ad totam, beatae, deleniti eaque odio laborum doloremque![m
+[32m+[m[32m        </p>[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
